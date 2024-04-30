@@ -9,6 +9,7 @@ public class Calendario {
     private int año;
     private int mes;
     private int dia;
+    private float test;
 
     /**
      * Constructor de la clase
